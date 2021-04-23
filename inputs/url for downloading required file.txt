@@ -1,0 +1,5 @@
+Download this file (254MB) and place in the input folder
+
+https://data.parliament.uk/resources/constituencystatistics/healthmaps/2021/gp_patients_lsoa_plus_age.csv
+
+Not included here as it's too large to upload with Github.
