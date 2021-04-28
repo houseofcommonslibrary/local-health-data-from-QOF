@@ -2,7 +2,7 @@
 
 This project contains underlying data and R code for estimating the prevalence of health conditions at LSOA level in England, based on GP practice-level data published by NHS Digital.
 
-The results, including maps, will shortly be available to browse on an interactive dashboard here on the [House of Commons Library website](https://commonslibrary.parliament.uk/constituency-data-how-healthy-is-your-area/). This github project provides more information on how the calculations were performed, along with the underlying data and code.
+The results, including maps, are available to browse on an interactive dashboard here on the [House of Commons Library website](https://commonslibrary.parliament.uk/constituency-data-how-healthy-is-your-area/). This github project provides more information on how the calculations were performed, along with the underlying data and code.
 
 The results of this analysis give **modelled estimates** of prevalence for LSOAs and larger geographies such as constituencies. They are not counts or precise figures.
 
